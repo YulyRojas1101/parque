@@ -1,24 +1,29 @@
-body{
+body
+{
   margin-left: 15%;
   font-family: verdana;
   width: 70%;
   color: #605b56;
 }
-header h1{
+header h1
+{
   padding-left: 10px;
 }
-#menuprincipal ul{
+#menuprincipal ul
+{
   float: left;
   width: 200px;
   padding: 0;
   margin: 0;
   }
-#contenido{
+#contenido
+{
   padding: 10px;
   background-color: #F9F7F3;
   margin-left: 200px;
   }
-#contenido p img{
+#contenido p img
+{
    float: right;
 }
 footer
@@ -28,9 +33,9 @@ footer
  padding-top: 10px;
   margin-top: 15px;
   text-align: center;
-
 }
-#menuprincipal ul li{
+#menuprincipal ul li
+{
   list-style-type: none;
   padding: 10px;
 }
