@@ -9,3 +9,6 @@
   margin-left: 200px;
   display: inline-block;
 }
+#contenido p img{
+   float: right;
+}
