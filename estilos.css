@@ -5,6 +5,7 @@
   margin: 0;
 }
 #contenido{
-  background-color: grey;
+  background-color: rgb(240,237,237);
   margin-left: 200px;
+  display: inline-block;
 }
