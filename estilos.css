@@ -39,3 +39,8 @@ footer
   list-style-type: none;
   padding: 10px;
 }
+head
+{
+  padding: 3px 10px;
+  margin-bottom: 5px;
+}
