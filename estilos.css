@@ -25,6 +25,11 @@ header h1
 #contenido p img
 {
    float: right;
+  background-image: url(imagenes/imagen3.jpg);
+	margin-left: 200px;
+	padding: 10px;
+	color: black;
+	border-radius: 6px;
 }
 footer
 {
@@ -39,7 +44,7 @@ footer
   list-style-type: none;
   padding: 10px;
 }
-head
+header
 {
   padding: 3px 10px;
   margin-bottom: 5px;
